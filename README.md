@@ -1,0 +1,2 @@
+# StartPageReplaceTool
+WiiUのブラウザのスタートページを置き換えます。
